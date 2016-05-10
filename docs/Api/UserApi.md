@@ -41,7 +41,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **body** | [**\Swagger\Client\Model\User**](\Swagger\Client\Model\User.md)| Created user object | [optional] 
+ **body** | [**\Swagger\Client\Model\User**](../Model/\Swagger\Client\Model\User.md)| Created user object | [optional] 
 
 ### Return type
 
@@ -85,7 +85,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **body** | [**\Swagger\Client\Model\User[]**](User.md)| List of user object | [optional] 
+ **body** | [**\Swagger\Client\Model\User[]**](../Model/User.md)| List of user object | [optional] 
 
 ### Return type
 
@@ -129,7 +129,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **body** | [**\Swagger\Client\Model\User[]**](User.md)| List of user object | [optional] 
+ **body** | [**\Swagger\Client\Model\User[]**](../Model/User.md)| List of user object | [optional] 
 
 ### Return type
 
@@ -222,7 +222,7 @@ Name | Type | Description  | Notes
 
 ### Return type
 
-[**\Swagger\Client\Model\User**](User.md)
+[**\Swagger\Client\Model\User**](../Model/User.md)
 
 ### Authorization
 
@@ -351,7 +351,7 @@ try {
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
  **username** | **string**| name that need to be deleted | 
- **body** | [**\Swagger\Client\Model\User**](\Swagger\Client\Model\User.md)| Updated user object | [optional] 
+ **body** | [**\Swagger\Client\Model\User**](../Model/\Swagger\Client\Model\User.md)| Updated user object | [optional] 
 
 ### Return type
 

@@ -44,7 +44,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **body** | [**\Swagger\Client\Model\Pet**](\Swagger\Client\Model\Pet.md)| Pet object that needs to be added to the store | [optional] 
+ **body** | [**\Swagger\Client\Model\Pet**](../Model/\Swagger\Client\Model\Pet.md)| Pet object that needs to be added to the store | [optional] 
 
 ### Return type
 
@@ -141,11 +141,11 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **status** | [**string[]**](string.md)| Status values that need to be considered for filter | [optional] [default to available]
+ **status** | [**string[]**](../Model/string.md)| Status values that need to be considered for filter | [optional] [default to available]
 
 ### Return type
 
-[**\Swagger\Client\Model\Pet[]**](Pet.md)
+[**\Swagger\Client\Model\Pet[]**](../Model/Pet.md)
 
 ### Authorization
 
@@ -189,11 +189,11 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **tags** | [**string[]**](string.md)| Tags to filter by | [optional] 
+ **tags** | [**string[]**](../Model/string.md)| Tags to filter by | [optional] 
 
 ### Return type
 
-[**\Swagger\Client\Model\Pet[]**](Pet.md)
+[**\Swagger\Client\Model\Pet[]**](../Model/Pet.md)
 
 ### Authorization
 
@@ -245,7 +245,7 @@ Name | Type | Description  | Notes
 
 ### Return type
 
-[**\Swagger\Client\Model\Pet**](Pet.md)
+[**\Swagger\Client\Model\Pet**](../Model/Pet.md)
 
 ### Authorization
 
@@ -288,7 +288,7 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **body** | [**\Swagger\Client\Model\Pet**](\Swagger\Client\Model\Pet.md)| Pet object that needs to be added to the store | [optional] 
+ **body** | [**\Swagger\Client\Model\Pet**](../Model/\Swagger\Client\Model\Pet.md)| Pet object that needs to be added to the store | [optional] 
 
 ### Return type
 

@@ -87,7 +87,7 @@ This endpoint does not need any parameter.
 
 ### Return type
 
-[**map[string,int]**](map.md)
+[**map[string,int]**](../Model/map.md)
 
 ### Authorization
 
@@ -132,7 +132,7 @@ Name | Type | Description  | Notes
 
 ### Return type
 
-[**\Swagger\Client\Model\Order**](Order.md)
+[**\Swagger\Client\Model\Order**](../Model/Order.md)
 
 ### Authorization
 
@@ -173,11 +173,11 @@ try {
 
 Name | Type | Description  | Notes
 ------------- | ------------- | ------------- | -------------
- **body** | [**\Swagger\Client\Model\Order**](\Swagger\Client\Model\Order.md)| order placed for purchasing the pet | [optional] 
+ **body** | [**\Swagger\Client\Model\Order**](../Model/\Swagger\Client\Model\Order.md)| order placed for purchasing the pet | [optional] 
 
 ### Return type
 
-[**\Swagger\Client\Model\Order**](Order.md)
+[**\Swagger\Client\Model\Order**](../Model/Order.md)
 
 ### Authorization
 
